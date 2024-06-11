@@ -13,3 +13,7 @@ std::ostream& operator<<(std::ostream& os, const SortingAlg& alg) {
     }
     return os;
 }
+
+const std::vector<int> SortingAlg::getData() {
+    return this->data;
+}

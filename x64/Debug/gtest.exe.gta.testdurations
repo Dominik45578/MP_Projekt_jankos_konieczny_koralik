@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GtaTestDurations xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Executable>C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\x64\Debug\gtest.exe</Executable>
+  <TestDurations>
+    <TestDuration Test="TestCaseName.TestName" Duration="1" />
+    <TestDuration Test="Sortowanie.SprawdzenieMergeSortDlaLosowychDanych" Duration="1" />
+    <TestDuration Test="LosoweDane.MergeSort" Duration="1" />
+    <TestDuration Test="LosoweDane.HeapSort" Duration="1" />
+    <TestDuration Test="LosoweDane.QuickSort" Duration="1" />
+    <TestDuration Test="LosoweDane.BubbleSort" Duration="7" />
+    <TestDuration Test="Pusta.MergeSort" Duration="1" />
+    <TestDuration Test="Pusta.QuickSort" Duration="1" />
+    <TestDuration Test="Pusta.BubbleSort" Duration="1" />
+    <TestDuration Test="Pusta.HeapSort" Duration="1" />
+    <TestDuration Test="Posortowana.MergeSort" Duration="1" />
+    <TestDuration Test="Posortowana.HeapSort" Duration="1" />
+    <TestDuration Test="Posortowana.QuickSort" Duration="9" />
+    <TestDuration Test="Posortowana.BubbleSort" Duration="1" />
+    <TestDuration Test="PosortowanaOdwrotnie.MergeSort" Duration="1" />
+    <TestDuration Test="PosortowanaOdwrotnie.HeapSort" Duration="1" />
+    <TestDuration Test="PosortowanaOdwrotnie.QuickSort" Duration="2" />
+    <TestDuration Test="PosortowanaOdwrotnie.BubbleSort" Duration="10" />
+  </TestDurations>
+</GtaTestDurations>

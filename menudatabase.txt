@@ -1,0 +1,4 @@
+1 - MergeSort
+2 - HeapSort
+3 - BubbleSort
+4 - QuickSort

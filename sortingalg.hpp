@@ -11,6 +11,7 @@ public:
     virtual ~SortingAlg() = default;
     virtual void sort() = 0;
     virtual void sortAndSave(const std::string& outputFileName) = 0;
+    const std::vector<int> getData();
 
 protected:
     int &operator[](int index);

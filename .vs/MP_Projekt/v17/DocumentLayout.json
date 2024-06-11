@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9315FC0B-063D-4640-A67B-D607111179AE}|gtest\\gtest.vcxproj|C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\gtest\\SortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9315FC0B-063D-4640-A67B-D607111179AE}|gtest\\gtest.vcxproj|solutionrelative:gtest\\SortTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:sortingalg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:sortingalg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:MergeSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MergeSort.hpp",
+              "DocumentMoniker": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.hpp",
+              "RelativeDocumentMoniker": "MergeSort.hpp",
+              "ToolTip": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.hpp",
+              "RelativeToolTip": "MergeSort.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-11T14:47:44.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MergeSort.cpp",
+              "DocumentMoniker": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.cpp",
+              "RelativeDocumentMoniker": "MergeSort.cpp",
+              "ToolTip": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.cpp",
+              "RelativeToolTip": "MergeSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T14:47:18.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "BubbleSort.cpp",
+              "ToolTip": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.cpp",
+              "RelativeToolTip": "BubbleSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T14:02:23.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sortingalg.cpp",
+              "DocumentMoniker": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.cpp",
+              "RelativeDocumentMoniker": "sortingalg.cpp",
+              "ToolTip": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.cpp",
+              "RelativeToolTip": "sortingalg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T14:01:33.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sortingalg.hpp",
+              "DocumentMoniker": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.hpp",
+              "RelativeDocumentMoniker": "sortingalg.hpp",
+              "ToolTip": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.hpp",
+              "RelativeToolTip": "sortingalg.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-11T14:01:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SortTest.cpp",
+              "DocumentMoniker": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\gtest\\SortTest.cpp",
+              "RelativeDocumentMoniker": "gtest\\SortTest.cpp",
+              "ToolTip": "C:\\Users\\lukim\\source\\repos\\MP\\MP_Projekt_jankos_konieczny_koralik\\gtest\\SortTest.cpp",
+              "RelativeToolTip": "gtest\\SortTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T13:55:11.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

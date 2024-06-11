@@ -1,0 +1,21 @@
+﻿  SortTest.cpp
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\BubbleSort.cpp(9,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/SortTest.cpp')
+  
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\QuickSort.cpp(8,30): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/SortTest.cpp')
+  
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\MergeSort.cpp(8,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/SortTest.cpp')
+  
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\HeapSort.cpp(8,29): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '/SortTest.cpp')
+  
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\gtest\SortTest.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/SortTest.cpp')
+  
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\gtest\SortTest.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file '/SortTest.cpp')
+  
+C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\gtest\SortTest.cpp(23,1): warning C4715: 'porownaj': not all control paths return a value
+  gtest.vcxproj -> C:\Users\lukim\source\repos\MP\MP_Projekt_jankos_konieczny_koralik\x64\Debug\gtest.exe

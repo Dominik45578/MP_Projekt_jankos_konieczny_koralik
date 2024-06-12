@@ -1,5 +1,5 @@
 #include "MergeSort.hpp"
-
+MergeSort::MergeSort(std::string name) { this->name = name; }
 MergeSort::MergeSort(const std::vector<int>& data) {
     this->data = data;
 }
@@ -11,9 +11,13 @@ void MergeSort::sort() {
 void MergeSort::sortAndSave(const std::string& outputFileName) {
     sort();
     std::ofstream outFile(outputFileName, std::ios::app);
+    //outFile << "<< Posortowana tablica | ilosc : " << data.size() << std::endl;
     for (const int& num : data) {
         outFile << num << std::endl;
+        std::cout << num << " ";
     }
+    outFile  << std::endl;
+    std::cout << std::endl;
 }
 
 void MergeSort::merge(std::vector<int>& data, int left, int mid, int right) {

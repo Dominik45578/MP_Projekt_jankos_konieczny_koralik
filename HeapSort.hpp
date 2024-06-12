@@ -5,6 +5,7 @@
 
 class HeapSort : public SortingAlg {
 public:
+    HeapSort(std::string name);
     HeapSort(const std::vector<int>& data);
     void sort() override;
     void sortAndSave(const std::string& outputFileName) override;

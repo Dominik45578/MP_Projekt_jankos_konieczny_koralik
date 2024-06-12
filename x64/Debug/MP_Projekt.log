@@ -1,6 +1,0 @@
-﻿x64\Debug\sortingalg.obj : warning LNK4042: obiekt określono więcej niż raz; dodatkowe wystąpienia zostały zignorowane
-BubbleSort.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl SortingAlg::print(void)" (?print@SortingAlg@@UEAAXXZ)
-HeapSort.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl SortingAlg::print(void)" (?print@SortingAlg@@UEAAXXZ)
-MergeSort.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl SortingAlg::print(void)" (?print@SortingAlg@@UEAAXXZ)
-QuickSort.obj : error LNK2001: nierozpoznany symbol zewnętrzny "public: virtual void __cdecl SortingAlg::print(void)" (?print@SortingAlg@@UEAAXXZ)
-C:\Users\Domin\Documents\MP_Projekt\x64\Debug\MP_Projekt.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1

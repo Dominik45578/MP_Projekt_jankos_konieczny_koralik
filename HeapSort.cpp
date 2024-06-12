@@ -1,5 +1,10 @@
 #include "HeapSort.hpp"
 
+HeapSort::HeapSort(std::string name)
+{
+    this->name = name;
+}
+
 HeapSort::HeapSort(const std::vector<int>& data) {
     this->data = data;
 }
@@ -11,9 +16,13 @@ void HeapSort::sort() {
 void HeapSort::sortAndSave(const std::string& outputFileName) {
     sort();
     std::ofstream outFile(outputFileName, std::ios::app);
+    //outFile << "<< Posortowana tablica | ilosc : " << data.size() << std::endl;
     for (const int& num : data) {
         outFile << num << std::endl;
+        std::cout << num << " ";
     }
+    outFile << std::endl;
+    std::cout << std::endl;
 }
 
 void HeapSort::swap(std::vector<int>& data, int indexa, int indexb) {

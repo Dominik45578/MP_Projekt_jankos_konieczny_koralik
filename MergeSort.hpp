@@ -5,6 +5,7 @@
 
 class MergeSort : public SortingAlg {
 public:
+    MergeSort(std::string name);
     MergeSort(const std::vector<int>& data);
     void sort() override;
     void sortAndSave(const std::string& outputFileName) override;

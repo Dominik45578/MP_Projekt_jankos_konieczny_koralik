@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MP_Projekt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:MP_Projekt.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:QuickSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:BubbleSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\HeapSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:HeapSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:MergeSort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:BubbleSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\HeapSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:HeapSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menu.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:menu.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:MergeSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\QuickSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:QuickSort.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:sortingalg.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:sortingalg.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menudatabase.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EAF7349-EF56-46EE-B7AB-1D68460D0C86}|MP_Projekt.vcxproj|solutionrelative:menudatabase.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "menu.hpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menu.hpp",
+              "RelativeDocumentMoniker": "menu.hpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menu.hpp",
+              "RelativeToolTip": "menu.hpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-11T13:53:43.494Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "menu.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menu.cpp",
+              "RelativeDocumentMoniker": "menu.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menu.cpp",
+              "RelativeToolTip": "menu.cpp",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAADsAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T13:52:25.579Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MergeSort.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.cpp",
+              "RelativeDocumentMoniker": "MergeSort.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.cpp",
+              "RelativeToolTip": "MergeSort.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T15:43:34.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HeapSort.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\HeapSort.cpp",
+              "RelativeDocumentMoniker": "HeapSort.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\HeapSort.cpp",
+              "RelativeToolTip": "HeapSort.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T10:12:01.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BubbleSort.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.cpp",
+              "RelativeDocumentMoniker": "BubbleSort.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.cpp",
+              "RelativeToolTip": "BubbleSort.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T10:12:10.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuickSort.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\QuickSort.cpp",
+              "RelativeDocumentMoniker": "QuickSort.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\QuickSort.cpp",
+              "RelativeToolTip": "QuickSort.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-12T10:11:42.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MP_Projekt.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MP_Projekt.cpp",
+              "RelativeDocumentMoniker": "MP_Projekt.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MP_Projekt.cpp",
+              "RelativeToolTip": "MP_Projekt.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T13:51:29.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BubbleSort.hpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.hpp",
+              "RelativeDocumentMoniker": "BubbleSort.hpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\BubbleSort.hpp",
+              "RelativeToolTip": "BubbleSort.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-11T15:45:30.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HeapSort.hpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\HeapSort.hpp",
+              "RelativeDocumentMoniker": "HeapSort.hpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\HeapSort.hpp",
+              "RelativeToolTip": "HeapSort.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T11:13:21.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MergeSort.hpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.hpp",
+              "RelativeDocumentMoniker": "MergeSort.hpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\MergeSort.hpp",
+              "RelativeToolTip": "MergeSort.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T11:13:14.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QuickSort.hpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\QuickSort.hpp",
+              "RelativeDocumentMoniker": "QuickSort.hpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\QuickSort.hpp",
+              "RelativeToolTip": "QuickSort.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T11:12:59.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "sortingalg.cpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.cpp",
+              "RelativeDocumentMoniker": "sortingalg.cpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.cpp",
+              "RelativeToolTip": "sortingalg.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-11T14:48:18.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "sortingalg.hpp",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.hpp",
+              "RelativeDocumentMoniker": "sortingalg.hpp",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\sortingalg.hpp",
+              "RelativeToolTip": "sortingalg.hpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-12T09:42:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "menudatabase.txt",
+              "DocumentMoniker": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menudatabase.txt",
+              "RelativeDocumentMoniker": "menudatabase.txt",
+              "ToolTip": "C:\\Users\\Domin\\Documents\\MP_Projekt\\MP_Projekt_jankos_konieczny_koralik\\menudatabase.txt",
+              "RelativeToolTip": "menudatabase.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-11T16:44:30.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

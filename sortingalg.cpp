@@ -1,5 +1,12 @@
 #include "sortingalg.hpp"
 
+void SortingAlg::print()
+{
+    for (const int& num : data) {
+        std::cout<< num << " ";
+    }
+}
+
 int& SortingAlg::operator[](int index) {
     return data.at(index); 
 }

@@ -1,5 +1,12 @@
 #include "sortingalg.hpp"
 
+void SortingAlg::print()
+{
+    for (const int& num : data) {
+        std::cout<< num << " ";
+    }
+}
+
 int& SortingAlg::operator[](int index) {
     return data.at(index); 
 }
@@ -13,7 +20,6 @@ std::ostream& operator<<(std::ostream& os, const SortingAlg& alg) {
     }
     return os;
 }
-
 const std::vector<int> SortingAlg::getData() {
     return this->data;
 }

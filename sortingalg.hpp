@@ -14,10 +14,13 @@ public:
     const std::vector<int> getData();
 
 protected:
+    void print();
+    friend class Menu;
     int &operator[](int index);
     const int &operator[](int index) const;
     friend std::ostream& operator<<(std::ostream& os, const SortingAlg& alg);
     std::vector<int> data;
+    std::string name;
 };
 
 #endif // SORTINGALG_HPP

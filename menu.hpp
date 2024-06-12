@@ -1,4 +1,32 @@
-#ifndef MENU_HPP
+#include <iostream>
+#include <string>
+#include <unordered_map>
+#include <fstream>
+#include "sortingalg.hpp"
+
+class Menu {
+public:
+    Menu();
+    void addOption(const std::string& name, SortingAlg* algorithm);
+    void displayMenu() const;
+    SortingAlg* executeOption(int option);
+    void menu();
+    std::vector<int>loadArrayFromFile(const std::string& filename= "input_arrayDB.txt");
+
+private:
+    friend class SortingAlg;
+    struct Option {
+        std::string name;
+        SortingAlg* algorithm;
+    };
+    std::unordered_map<int, Option> optionMap;
+    int optionCount = 1;
+
+    void loadOptionsFromFile();
+    void saveOptionsToFile();
+};
+
+/*#ifndef MENU_HPP
 #define MENU_HPP
 
 #include <unordered_map>
@@ -29,7 +57,7 @@ private:
 
 #endif // MENU_HPP
 
-/*
+
 #include <iostream>
 #include <functional>
 #include <fstream>

@@ -1,5 +1,10 @@
 #include "QuickSort.hpp"
 
+QuickSort::QuickSort(std::string name)
+{
+    this->name = name;
+}
+
 QuickSort::QuickSort(const std::vector<int>& data) {
     this->data = data;
 }
@@ -11,9 +16,13 @@ void QuickSort::sort() {
 void QuickSort::sortAndSave(const std::string& outputFileName) {
     sort();
     std::ofstream outFile(outputFileName, std::ios::app);
+    //outFile << "<< Posortowana tablica | ilosc : " << data.size() << std::endl;
     for (const int& num : data) {
         outFile << num << std::endl;
+        std::cout << num << " ";
     }
+    outFile << std::endl;
+    std::cout << std::endl;
 }
 
 void QuickSort::quickSort(int left, int right) {

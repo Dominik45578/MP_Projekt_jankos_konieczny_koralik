@@ -5,6 +5,7 @@
 
 class QuickSort : public SortingAlg {
 public:
+    QuickSort(std::string name);
     QuickSort(const std::vector<int>& data);
     void sort() override;
     void sortAndSave(const std::string& outputFileName);
